@@ -1,0 +1,2 @@
+# demopage
+static website
